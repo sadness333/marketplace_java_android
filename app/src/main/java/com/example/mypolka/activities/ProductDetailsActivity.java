@@ -108,7 +108,7 @@ public class ProductDetailsActivity extends AppCompatActivity {
                 TextView textView = dialog.findViewById(R.id.textView);
                 textView.setText("Пожалуйста, подождите...");
 
-                text2ImageAPI = new Text2ImageAPI("https://api-key.fusionbrain.ai/", "28B5222D0930F1918E839A137BE89530", "06ECB61803F8695662A67B54FE56C809");
+                text2ImageAPI = new Text2ImageAPI();
                 text2ImageAPI.generateImage(binding.titleTv.getText().toString().trim(), textView, imageView);
 
                 imageView.setOnClickListener(new View.OnClickListener() {
