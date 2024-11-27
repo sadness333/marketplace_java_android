@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "971660432410",
+    "firebase_url": "https://mypolka-4cf39-default-rtdb.firebaseio.com",
+    "project_id": "mypolka-4cf39",
+    "storage_bucket": "mypolka-4cf39.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:971660432410:android:843216cd4304ddf16aeda3",
+        "android_client_info": {
+          "package_name": "com.example.mypolka"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "971660432410-nu051n5n139pfmgrt5n6hv4pfcm8n3ig.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mypolka",
+            "certificate_hash": "af357debfaab3f7d970e7c248db2dfa4f86411f8"
+          }
+        },
+        {
+          "client_id": "971660432410-k9gdgcmh87g0s8fkslpfncni00kj7jb0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0vtEN8vJSfhss7dyZ2xd_XJl22wjPvCs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "971660432410-k9gdgcmh87g0s8fkslpfncni00kj7jb0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

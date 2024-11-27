@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MyPolka</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="not_have_account_register">Нет своего аккаунта ? <b>Регистрация</b></string>
+    <string name="already_have_account_login">Есть аккаунт ? <b>Авторизация</b></string>
+    <string name="default_web_client_id">mypolka-4cf39</string>
+    <string name="forgot_password_recover">Забыли пароль? <b>Восстановить</b></string>
+    <string name="price_symbol"><b>₽</b></string>
+</resources>
